@@ -36,6 +36,10 @@ def retrieval
                  
   shipping_manifest["oil paintings"]
   
+end
+
+def adding
+  
   # add 2 muskets to the shipping_manifest hash below
 
 
@@ -46,4 +50,3 @@ def retrieval
 
   # return the shipping_manifest hash below
 
-end
